@@ -1,0 +1,17 @@
+com\sayy\sayymaastylo\Controller\UserController.class
+com\sayy\sayymaastylo\DAOIMPL\CategoryDAOImpl.class
+com\sayy\sayymaastylo\Controller\SupplierController.class
+com\sayy\sayymaastylo\model\Supplier.class
+com\sayy\sayymaastylo\Controller\ProductController.class
+com\sayy\sayymaastylo\DAO\SupplierDAO.class
+com\sayy\sayymaastylo\model\Product.class
+com\sayy\sayymaastylo\DAO\UserDAO.class
+com\sayy\sayymaastylo\DAOIMPL\SupplierDAOImpl.class
+com\sayy\sayymaastylo\model\User.class
+com\sayy\sayymaastylo\Controller\CategoryController.class
+com\sayy\sayymaastylo\model\Category.class
+com\sayy\sayymaastylo\Controller\DisplayController.class
+com\sayy\sayymaastylo\DAOIMPL\UserDAOIMPL.class
+com\sayy\sayymaastylo\DAO\CategoryDAO.class
+com\sayy\sayymaastylo\DAO\ProductDao.class
+com\sayy\sayymaastylo\DAOIMPL\ProductDaoImpl.class
